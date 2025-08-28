@@ -16,9 +16,9 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 
 // Feature icons
-import send from "./send.svg";
-import shield from "./shield.svg";
-import star from "./star.svg";
+import send from "./Send.svg";
+import shield from "./Shield.svg";
+import star from "./Star.svg";
 
 // UI / misc
 import logo from "./bitcoin.png";
